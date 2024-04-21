@@ -7,8 +7,8 @@ int main()
 
     // taking input
 
-    sscanf("%d %d", &int1, &int2);
-    sscanf("%f %f", &float1, &float2);
+    scanf("%d %d", &int1, &int2);
+    scanf("%f %f", &float1, &float2);
 
     // calculating 
     int intSum = int1 + int2;
